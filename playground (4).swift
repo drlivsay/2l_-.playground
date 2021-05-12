@@ -66,4 +66,3 @@ Fb1 = Fb2 - Fb1
 print (Fibbonaci)
 print (Fibbonaci.count)
 
-print ("Конец пятого задания")
